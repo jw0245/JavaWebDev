@@ -1,4 +1,4 @@
-package First.Hello.Variable;
+package variable;
 
 public class BooleanTest {
     public static void main(String[] args) {

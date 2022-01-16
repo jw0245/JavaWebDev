@@ -1,4 +1,4 @@
-package First.Hello.Variable;
+package variable;
 
 public class ExplicitConversion
 {
