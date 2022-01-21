@@ -21,7 +21,6 @@ public class Scond_test2 {
         else {
             System.out.println("유효한 날짜입니다.");
         }
-
     }
 
 }
