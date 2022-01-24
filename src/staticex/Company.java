@@ -1,0 +1,2 @@
+package staticex;public class Company {
+}
