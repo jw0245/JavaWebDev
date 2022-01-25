@@ -18,7 +18,10 @@ public class CardCompany {
     };
         //// 2-16 문제 다시 보기
     public Card createCard() {
-        Card = new Card();
+        Card card = new Card();
+
+        return card;
+
     }
 
 
