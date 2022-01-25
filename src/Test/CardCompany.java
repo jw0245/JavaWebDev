@@ -1,21 +1,25 @@
 package Test;
 
-import staticex.Company;
-
 public class CardCompany {
 
     private static CardCompany instance = new CardCompany();
 
-    private  Company() {}
+    private  CardCompany() {}
 
-    public static Company getInstance(){
+
+
+    public static CardCompany getInstance(){
 
         if(instance == null){
-            instance = new Company();
+            instance = new CardCompany();
         }
 
         return instance;
     };
+        //// 2-16 문제 다시 보기
+    public Card createCard() {
+        Card = new Card();
+    }
 
 
 }
