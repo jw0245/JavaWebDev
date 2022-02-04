@@ -44,7 +44,7 @@ public class Mydate {
             return true;
         }
         else{
-            //유혀함
+            //유효함
             return false;
         }
 

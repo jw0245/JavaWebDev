@@ -9,7 +9,6 @@ public class Second_test {
             주문 상품 번호 : PD0345-12
             배송 주소 : 서울시 영등포구 여의도동 20번지
         *
-
         */
     String order_num;
     String order_id;
